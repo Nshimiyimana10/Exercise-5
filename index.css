@@ -1,0 +1,35 @@
+.main-container{
+    display: flex;
+    width: 450px;
+    height: 350px;
+    background-color:white;
+
+}
+
+.combined-div{
+display: flex;
+flex-direction: column;
+
+}
+
+.description-box{
+width: 225px;
+height: 180px;
+background-color: aqua;
+
+}
+
+.more-infos{
+width: 225px;
+height: 180px;
+background-color: rgb(32, 164, 164);
+
+}
+
+.flex-box{
+  display: flex;
+  justify-content: end;
+  align-items: end;
+  align-self: self-end;
+}
+
